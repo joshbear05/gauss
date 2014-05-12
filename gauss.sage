@@ -15,4 +15,6 @@ class GaussianRational:
         return GaussRN(r_part, i_part)
     def __crazy__(self, crazy):
         return "I'm crazy"
+    def whatthe(oh_ma_gawd):
+        return "whoknowswhatsgoingon" + 13ds
 
